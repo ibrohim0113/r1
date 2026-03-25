@@ -1,0 +1,104 @@
+{
+  "curs": [
+    {
+      "id": 1,
+      "title": "HTML и CSS",
+      "description": "Изучите строительные блоки веба",
+      "duration": "1 месяц",
+      "category": "Фронтенд",
+      "bgColor": "from-red-900 to-stone-900",
+      "accentColor": "red",
+      "key": "html"
+    },
+    {
+      "id": 2,
+      "title": "JavaScript",
+      "description": "Освойте основы программирования с JavaScript",
+      "duration": "2 месяца",
+      "category": "Фронтенд",
+      "bgColor": "from-yellow-900 to-stone-900",
+      "accentColor": "yellow",
+      "key": "js"
+    },
+    {
+      "id": 3,
+      "title": "React",
+      "description": "Создавайте интерактивные интерфейсы с популярной библиотекой JavaScript",
+      "duration": "3 месяца",
+      "category": "Фронтенд",
+      "bgColor": "from-blue-900 to-stone-900",
+      "accentColor": "blue",
+      "key": "react"
+    },
+    {
+      "id": 4,
+      "title": "Дизайн",
+      "description": "Создавайте красивые, функциональные цифровые продукты",
+      "duration": "4 месяца",
+      "category": "Дизайн",
+      "bgColor": "from-green-900 to-stone-900",
+      "accentColor": "green",
+      "key": "design"
+    },
+    {
+      "id": 5,
+      "title": "Основы C++",
+      "description": "Начните свой путь в программировании с C++",
+      "duration": "1 месяц",
+      "category": "Бэкенд",
+      "bgColor": "from-cyan-900 to-stone-900",
+      "accentColor": "cyan",
+      "key": "cpp"
+    },
+    {
+      "id": 6,
+      "title": "Python",
+      "description": "Изучите один из самых универсальных языков программирования",
+      "duration": "4 месяца",
+      "category": "Бэкенд",
+      "bgColor": "from-teal-900 to-stone-900",
+      "accentColor": "teal",
+      "key": "python"
+    },
+    {
+      "id": 7,
+      "title": "C#",
+      "description": "Создавайте универсальные приложения с этим мощным языком",
+      "duration": "3 месяца",
+      "category": "Бэкенд",
+      "bgColor": "from-purple-900 to-stone-900",
+      "accentColor": "purple",
+      "key": "csharp"
+    },
+    {
+      "id": 8,
+      "title": "Git",
+      "description": "Освойте контроль версий для совместной работы над проектами",
+      "duration": "1 месяц",
+      "category": "Фронтенд",
+      "bgColor": "from-orange-900 to-stone-900",
+      "accentColor": "orange",
+      "key": "git"
+    },
+    {
+      "id": 9,
+      "title": "Flutter",
+      "description": "Создавайте кроссплатформенные мобильные приложения с единой кодовой базой",
+      "duration": "4 месяца",
+      "category": "Мобильная Разработка",
+      "bgColor": "from-sky-900 to-stone-900",
+      "accentColor": "sky",
+      "key": "mobile"
+    },
+    {
+      "id": 10,
+      "title": "Программирование для подростков",
+      "description": "Основы программирования для юных учеников",
+      "duration": "10 месяцев",
+      "category": "Дети",
+      "bgColor": "from-blue-900 to-stone-900",
+      "accentColor": "blue",
+      "key": "kids"
+    }
+  ]
+}
